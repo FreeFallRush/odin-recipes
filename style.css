@@ -57,7 +57,17 @@ img {
 
 
 .mini-menu {
-  font-size: 23px;
+  font-size: 21px;
   text-align: center;
+  margin-top: 25px;
   margin-bottom: 25px;
+}
+
+hr {
+  width: 50%;
+  margin-right:100%;
+  border: 1px solid rgb(53, 53, 110);
+}
+.notes {
+    padding-left: 100px;
 }
